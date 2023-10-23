@@ -1,0 +1,15 @@
+
+
+html {
+  scroll-behavior: smooth;
+  font-size: 62.5%;
+}
+body {
+  font-family: "Fredoka One", cursive;
+  font-family: "Kreon", serif;
+  background-color: #0c0a09;
+}
+a.active {
+  color: #be185d;
+  font-weight: 700;
+}
